@@ -45,7 +45,6 @@ Patient added successfully! ID: 2
 1.Add Doctor 2.Add Patient 3.Book 4.Analytics 5.Exit
 3
 Appointment booked successfully.
-
 ```
 ---
 
@@ -72,5 +71,4 @@ Appointment booked successfully.
 ---
 
 ## 👨‍💻 Author
-
 Jukuru Venkat
